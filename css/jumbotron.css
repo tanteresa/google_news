@@ -13,15 +13,15 @@ body {
 
 .affix {
 	position: fixed;
-	top: 80px;
+	top: 100px;
 }
 
 .affix-top {
 	position: absolute;
-	top: 200px;
+	
 }
 
 .affix.bottom {
 	position: absolute;
-	bottom: 200px;
+	
 }
